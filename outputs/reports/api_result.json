@@ -1,0 +1,12 @@
+{
+  "violations": [
+    {
+      "violation": "violence & graphic content",
+      "text": "I'm gonna kill him.",
+      "time_range": [
+        0.0,
+        2.0
+      ]
+    }
+  ]
+}
